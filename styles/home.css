@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(255, 250, 201);
+    font-family: "Verdana", sans-serif;
+    padding: 0px 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
